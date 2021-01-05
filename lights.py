@@ -16,7 +16,6 @@ def set_color(red, green, blue, seconds=0.1):
     
 set_color(0, 0, 0)
 
-input("Lights initialized. Press enter to start.")
 
 while True:
     set_color(255, 0, 0)
