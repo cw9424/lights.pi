@@ -16,7 +16,6 @@ def set_color(red, green, blue, seconds=0.1):
     
 set_color(0, 0, 0)
 
-
 while True:
     set_color(255, 0, 0)
     set_color(255, 165, 0)
@@ -26,6 +25,5 @@ while True:
     set_color(75, 0, 130)
     set_color(128, 0, 128)
     set_color(0, 0, 0)
-    
-    
+       
 pi.stop()
